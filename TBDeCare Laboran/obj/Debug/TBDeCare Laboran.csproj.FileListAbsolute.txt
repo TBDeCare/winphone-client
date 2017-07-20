@@ -1,0 +1,76 @@
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare Laboran.dll
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare Laboran.pdb
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\resources.pri
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\AppxManifest.xml
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare Laboran.build.appxrecipe
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\AppManifest.xaml
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare_Laboran_Debug_AnyCPU.xap
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\App.g.cs
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\MainPage.g.cs
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.g.resources
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare_Laboran.Resources.AppResources.resources
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.csproj.GenerateResource.Cache
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.dll
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.pdb
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\priconfig.xml
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\priconfig.xml.intermediate
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\layout.resfiles
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\layout.resfiles.intermediate
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\resources.resfiles
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\resources.resfiles.intermediate
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\pri.resfiles
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\pri.resfiles.intermediate
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\qualifiers.txt
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\qualifiers.txt.intermediate
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\ProjectArchitectures.txt
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\MDILProjectFiles.xml
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\XapCacheFile.xml
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\CameraPage.g.cs
+c:\users\mure\documents\visual studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\SubmitPage.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\SettingServerPage.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare Laboran.dll
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare Laboran.pdb
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\resources.pri
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\AppxManifest.xml
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare Laboran.build.appxrecipe
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\AppManifest.xaml
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\Bin\Debug\TBDeCare_Laboran_Debug_AnyCPU.xap
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\App.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\CameraPage.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\MainPage.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\SettingServerPage.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\SubmitPage.g.cs
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.g.resources
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare_Laboran.Resources.AppResources.resources
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.csproj.GenerateResource.Cache
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.dll
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\TBDeCare Laboran.pdb
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\priconfig.xml
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\priconfig.xml.intermediate
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\layout.resfiles
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\layout.resfiles.intermediate
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\resources.resfiles
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\resources.resfiles.intermediate
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\pri.resfiles
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\pri.resfiles.intermediate
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\qualifiers.txt
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\ProjectArchitectures.txt
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\MDILProjectFiles.xml
+C:\Users\mure\Documents\Visual Studio 2015\Projects\TBDeCare Laboran\TBDeCare Laboran\TBDeCare Laboran\obj\Debug\XapCacheFile.xml
